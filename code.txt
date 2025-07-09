@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AquaShield - Underwater Phone Cases</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>AquaShield</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Products</a>
+      <a href="#">About</a>
+      <a href="#">FAQ</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Protect Your Phone. Explore the Depths.</h2>
+    <p>Waterproof, shockproof, adventure-ready phone cases for every device.</p>
+    <a href="#" class="btn">Shop Now</a>
+  </section>
+
+  <section class="features">
+    <div class="feature">
+      <h3>100% Waterproof</h3>
+      <p>Submersible up to 30 meters deep.</p>
+    </div>
+    <div class="feature">
+      <h3>Touchscreen Friendly</h3>
+      <p>Use your phone underwater with ease.</p>
+    </div>
+    <div class="feature">
+      <h3>Universal Fit</h3>
+      <p>Fits all phone sizes securely.</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 AquaShield. All rights reserved.</p>
+  </footer>
+</body>
+</html>
